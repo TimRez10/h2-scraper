@@ -1,0 +1,24 @@
+version: 1
+email:
+  email_recipient: user1@example.ca; user2@example.ca; user3@example.ca
+  smtp_user: notifications@example.ca
+  smtp_password: example-password
+database:
+  user: EXAMPLE-user
+  password: EXAMPLE-user-password
+  hostname: EXAMPLE-hostname
+  port: 3306
+  db: EXAMPLE-db-name
+  table: EXAMPLE-db-table-name
+keywords:
+  topic: hydrogen
+  keyword_list: ["clean technologies", 'climate change', 'net-zero', 'emission', 
+            'economic opportunity', 'fight', 'global transition',  'zero-emission vehicle',
+            'green economy','carbon intensity','ZEV', 'application', 'consultation',
+            'zero emission', 'emissions', 'reductions', 'FCEV',
+            'clean hydrogen', 'low carbon intensity', 'hydrogen economy', 'hydrogen hub', 
+            'renewable energy', 'refueling station', 'refueling station', 
+            'energy transition', 'greenhouse gas', 'policy', 'regulation', 'credit',
+            'tax credit', 'production', 'fuel cell' , 'funding', 'clean fuel', 'GHG',
+            'clean fuel fund', 'green economy', 'electric vehicle', 'green amonia', 'green NH3',
+            'clean energy', 'electrolysis', 'H2']

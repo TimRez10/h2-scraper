@@ -1,0 +1,116 @@
+2026-05-03 - Timur Reziapov - updates README, removes PII, deletes unused files
+2026-03-16 - Timur Reziapov - Merge branch 'main' of github.com:[Redacted]
+2026-03-16 - Timur Reziapov - adds fix to link and title scraping to hydrogen-insight
+2025-09-04 - Timur Reziapov - HTEC - Update README.md
+2025-07-14 - Timur Reziapov - Merge branch 'main' of https://github.com/[Redacted]
+2025-07-14 - Timur Reziapov - deleted un-needed files
+2025-07-07 - Timur Reziapov - HTEC - Merge pull request #2 from HTEC-H2/mysql
+2025-07-07 - Timur Reziapov - adds final adjustments
+2025-07-07 - Timur Reziapov - adds additional error handling
+2025-07-07 - Timur Reziapov - adds env varible for skipping sending email
+2025-07-07 - Timur Reziapov - fixes function name in main.py
+2025-07-07 - Timur Reziapov - formats HTML into the email body instead of sending an attachment
+2025-07-07 - Timur Reziapov - improves main.py switch case to return more accurate information
+2025-07-06 - Timur Reziapov - fixes sending notification email
+2025-07-06 - Timur Reziapov - fixes some issues with main.py
+2025-07-06 - Timur Reziapov - ensures all web scraping scripts are functional
+2025-07-06 - Timur Reziapov - creates helper functions for web scrapers and implements them
+2025-07-05 - Timur Reziapov - standardizes all web scraping scripts for consistent style, simplify article loading by scraping all and relying on DB insert-ignore to handle duplicates
+2025-07-04 - Timur Reziapov - fixes some mysql bugs while testing
+2025-07-04 - Timur Reziapov - refactors main.py
+2025-07-04 - Timur Reziapov - starts modifiying main.py
+2025-07-03 - Timur Reziapov - started converting main.py to mysql
+2025-07-03 - Timur Reziapov - integrates mysql into web scraping scripts
+2025-07-03 - Timur Reziapov - created script to move excel data to mysql
+2025-07-02 - Timur Reziapov - confirm database dockerfile is working
+2025-07-02 - Timur Reziapov - Merge branch 'main' of https://github.com/[Redacted] into mysql
+2025-07-02 - Timur Reziapov - tries adding playwrite install to docker cache
+2025-07-02 - Timur Reziapov - makes entrypoint executable
+2025-07-02 - Timur Reziapov - added docker entrypoint so I can run multiple commands
+2025-07-02 - Timur Reziapov - fixes dockerfile and main.py
+2025-07-02 - Timur Reziapov - updates requirements.txt
+2025-07-02 - Timur Reziapov - edits app_config
+2025-07-02 - Timur Reziapov - adds energy-us-gov-news script
+2025-07-01 - Timur Reziapov - adds mysql dockerfile
+2025-06-27 - Timur Reziapov - renames files. Creates new file for enervy.gov newsroom
+2025-06-27 - Timur Reziapov - adds fuelcellworks scraping script
+2025-06-27 - Timur Reziapov - adds hydrogen insights
+2025-06-25 - Timur Reziapov - renames scripts and adds drivinghydrogen scraping
+2025-06-25 - Timur Reziapov - cleans mainControl script
+2025-06-25 - Timur Reziapov - reformats script code
+2025-05-20 - Timur Reziapov - HTEC - Merge pull request #1 from HTEC-H2/SMTP2Go
+2025-05-06 - Timur Reziapov - Merge branch 'SMTP2Go' of https://github.com/[Redacted] into SMTP2Go
+2025-05-06 - Timur Reziapov - checks if there were any updates today, and still sends email
+2025-05-05 - Timur Reziapov - Update README.md
+2025-05-05 - Timur Reziapov - allows sending to multiple recipients
+2025-05-04 - Timur Reziapov - containerizes app, adds logging, adds external configuration for notifications
+2025-05-02 - Timur Reziapov - update gitignore
+2025-05-02 - Timur Reziapov - Clean up tracked files now ignored
+2025-05-02 - Timur Reziapov - created requirements.txt, deleted test files
+2025-05-02 - Timur Reziapov - Fixed warnings, added attachments to email
+2025-05-02 - Timur Reziapov - Set up SMTP2Go test
+2024-05-13 - [Redacted] - Regular Update
+2024-05-10 - [Redacted] - Update
+2024-05-09 - [Redacted] - Merge branch 'main' of https://github.com/[Redacted]
+2024-05-09 - [Redacted] - regular updates
+2024-04-29 - [Redacted] - Update README.md
+2024-04-25 - [Redacted] - Regular Update
+2024-03-06 - [Redacted] - Routine Update
+2024-01-26 - [Redacted] - Fix bugs
+2024-01-26 - [Redacted] - New Update
+2024-01-09 - [Redacted] - New Update
+2023-11-23 - [Redacted] - Regular Update
+2023-11-20 - [Redacted] - Regular Update
+2023-11-14 - [Redacted] - Regular Update
+2023-10-24 - [Redacted] - New Update
+2023-10-24 - [Redacted] - Add files via upload
+2023-10-23 - [Redacted] - New Update
+2023-10-11 - [Redacted] - Change language model from sm to trf
+2023-10-11 - [Redacted] - Daily Update
+2023-10-10 - [Redacted] - Geo Detection added
+2023-10-10 - [Redacted] - Routine update
+2023-10-05 - [Redacted] - Geo Detection feature testing added
+2023-10-05 - [Redacted] - Merge branch 'main' of https://github.com/[Redacted]
+2023-10-05 - [Redacted] - New files
+2023-10-05 - [Redacted] - Add files via upload
+2023-09-21 - [Redacted] - Error fixed
+2023-09-21 - [Redacted] - New files
+2023-09-18 - [Redacted] - new entries
+2023-08-25 - [Redacted] - hello
+2023-08-25 - [Redacted] - Hello
+2023-08-10 - [Redacted] - Hello
+2023-08-09 - [Redacted] - Tiny update
+2023-08-09 - [Redacted] - Daily commit
+2023-08-01 - [Redacted] - Hello
+2023-08-01 - [Redacted] - New Files
+2023-07-14 - [Redacted] - Hello
+2023-07-14 - [Redacted] - Hello
+2023-07-14 - [Redacted] - Merge branch 'main' of https://github.com/[Redacted]
+2023-07-14 - [Redacted] - Hello
+2023-07-13 - [Redacted] - Push all
+2023-07-12 - [Redacted] - Update
+2023-07-12 - [Redacted] - daily run
+2023-07-11 - [Redacted] - Update
+2023-07-11 - [Redacted] - Hello
+2023-07-11 - [Redacted] - Hello
+2023-07-11 - [Redacted] - Message
+2023-07-11 - [Redacted] - Just updates
+2023-07-11 - [Redacted] - A lot of updates
+2023-07-11 - [Redacted] - Daily Update
+2023-07-10 - [Redacted] - More updates
+2023-07-10 - [Redacted] - More new files
+2023-07-10 - [Redacted] - New excel files and updated script
+2023-07-07 - [Redacted] - Update
+2023-07-07 - [Redacted] - try out chatgpt
+2023-07-06 - [Redacted] - Just some updates
+2023-07-06 - [Redacted] - New Files
+2023-07-06 - [Redacted] - New File
+2023-07-06 - [Redacted] - Nothing New
+2023-07-06 - [Redacted] - a
+2023-07-06 - [Redacted] - Adding new file
+2023-07-06 - [Redacted] - Add files via upload
+2023-07-06 - [Redacted] - Add files via upload
+2023-05-16 - [Redacted] - Add files via upload
+2023-05-15 - [Redacted] - Add files via upload
+2023-05-15 - [Redacted] - Add files via upload
+2023-05-15 - [Redacted] - Initial commit

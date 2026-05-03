@@ -1,0 +1,7 @@
+venv
+web_scraping_data
+unused
+move_excel_to_mysql.py
+.gitignore
+README.md
+app_conf.yaml.template

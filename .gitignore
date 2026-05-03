@@ -1,0 +1,11 @@
+.vscode/
+.env
+venv/
+Daily Update HTML/
+Weekly Update HTML/
+.git
+RunLog.xlsx
+web_scraping_data/
+__pycache__
+web_scraping_data/master*
+app_conf.yaml
