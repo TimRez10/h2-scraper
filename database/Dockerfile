@@ -5,10 +5,9 @@ ADD ./create_table.sql /docker-entrypoint-initdb.d/1.sql
 
 # Set environment variables for MySQL
 ENV MYSQL_USER=h2
-ENV MYSQL_USER=h2
-ENV MYSQL_PASSWORD=Imaging5-CELL
-ENV MYSQL_DATABASE=web_scraping
-ENV MYSQL_ROOT_PASSWORD=zinc9-bartholomew-ETHNIC
+ENV MYSQL_PASSWORD=EXAMPLE-password
+ENV MYSQL_DATABASE=h2_web_scraping
+ENV MYSQL_ROOT_PASSWORD=EXAMPLE-root-password
 
 # Expose port 3306 for MySQL
 EXPOSE 3306
